@@ -175,13 +175,13 @@ generateBtn.addEventListener("click", () => {
   arrOfGenerate.push(generateUpperCase);
 
 //   console.log(arrOfGenerate);
-  if (lowerCaseCheck.checked);
+  if (lowerCaseCheck.checked)
   arrOfGenerate.push(generateLowerCase);
 
-  if (numberCheck.checked);
+  if (numberCheck.checked)
   arrOfGenerate.push(generateNumber);
 
-  if (symbolCheck.checked);
+  if (symbolCheck.checked)
   arrOfGenerate.push(generateSymbol);
 
   //compulsory addition
